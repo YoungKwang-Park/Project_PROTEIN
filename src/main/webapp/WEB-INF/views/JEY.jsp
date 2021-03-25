@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>삼대 500 이하 출입금지</title>
+<title>삼대 300 이상 출입금지</title>
 </head>
 <body>d
 111111ㅁㅁㅁㅁㅁㅁㅁㅇㅇㅇㅇddㅇㅇㅇddddd
