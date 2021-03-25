@@ -4,16 +4,9 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
-<title>이것은 나의 파일, 찜콩</title>
+<title>Insert title here</title>
 </head>
 <body>
-	<header>
-	</header>
-	
-	<article>
-	</article>
-	
-	<footer>
-	</footer>
+YJ입니다~~~~!!!
 </body>
 </html>
