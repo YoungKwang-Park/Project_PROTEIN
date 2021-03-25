@@ -4,7 +4,7 @@
 <html lang="ko">
 <head>
 <meta charset="UTF-8">
-<title>이 파일은 혜진인가 유진인ㅇ가?</title>
+<title>병진</title>
 </head>
 <body>
 
