@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-YJ입니다~~~~!!!
+YJ입니다 복잡한듯 어지럽구만ㅎㅎ
 </body>
 </html>
