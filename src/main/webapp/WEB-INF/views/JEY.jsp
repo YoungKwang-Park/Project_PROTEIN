@@ -7,6 +7,6 @@
 <title>삼대 300 이상 출입금지</title>
 </head>
 <body>d
-111111ㅁㅁㅁㅁㅁㅁㅁㅇㅇㅇㅇddㅇㅇㅇddddd
+ PUSH, PULL, LEG?????
 </body>
 </html>
