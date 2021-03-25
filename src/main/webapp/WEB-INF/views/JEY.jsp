@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>삼대 500 이하 출입금지</title>
 </head>
 <body>
 
