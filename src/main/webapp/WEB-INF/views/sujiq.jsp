@@ -7,6 +7,13 @@
 <title>이것은 나의 파일, 찜콩</title>
 </head>
 <body>
-
+	<header>
+	</header>
+	
+	<article>
+	</article>
+	
+	<footer>
+	</footer>
 </body>
 </html>
